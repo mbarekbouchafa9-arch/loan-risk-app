@@ -1,2 +1,5 @@
-# loan-risk-app
-Loan-risk-app
+streamlit
+scipy
+pandas
+numpy
+
